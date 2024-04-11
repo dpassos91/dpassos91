@@ -9,7 +9,7 @@ Associate Data Analyst in SQL (datacamp).
 - 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Supervised and Unsupervised Learning, Regression, Classification.
 ## 📫 How to reach me ...
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dpassos91/)
-&nbsp;
+[![Gmail](https://www.vecteezy.com/png/16716465-gmail-png-icon) Gmail]
 
 
 
