@@ -1,5 +1,9 @@
 # 👋 Hi, I’m Diogo Passos!
-As a passionate musician 🎵 and educator with a strong background in Music, I am transitioning into the field of data science to leverage my analytical skills and creativity in solving complex problems. My experience as a musician, teacher and school director has honed my ability to collaborate, communicate, and think critically, making me well-equipped for the data science domain 💻
+As a passionate musician 🎵 and educator with a strong background in Music, I am transitioning into the field of data science to leverage my analytical skills and creativity in solving complex problems. 
+
+During my ten-year tenure as director of a music school, I began to recognize the importance of delving deeper into data to better understand and characterize our target audience. This realization sparked my interest in data analysis and prompted me to pursue further education in the field of data science.
+
+My experience as a musician, teacher and school director has honed my ability to collaborate, communicate, and think critically, making me well-equipped for the data science domain 💻
 ## 🌱 I’m currently learning
 Associate Data Analyst in SQL (datacamp).
 ## 🛠️ My Technical Skills
