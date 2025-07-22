@@ -1,23 +1,28 @@
 # 👋 Hi, I’m Diogo Passos!
-As a passionate musician 🎵 and educator with a strong background in Music, I am transitioning into the field of data science to leverage my analytical skills and creativity in solving complex problems. 
 
-During my ten-year tenure as director of a music school, I began to recognize the importance of delving deeper into data to better understand and characterize its target audience. This realization sparked my interest in data analysis and prompted me to pursue further education in the field of data science.
+I'm a **former professional musician and arts educator** now embracing the world of **software development**. After over a decade directing a music school and performing across the globe, I discovered a new passion: building digital solutions that solve real-world problems.
 
-My experience as a musician, teacher and school director has honed my ability to collaborate, communicate, and think critically, making me well-equipped for the data science domain 💻
-## 🌱 I’m currently learning
-Associate Data Analyst in SQL (datacamp).
-## 🛠️ My Technical Skills
-𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴: Python (NumPy, Pandas, Matplotlib, Scikit-learn);
+🎯 Currently focused on:
+- **Backend development** with Java and RESTful APIs
+- **Fullstack web apps** with React.js and Spring Boot
+- Writing clean, maintainable and tested code
+- Learning DevOps and cloud infrastructure (Terraform, Docker)
 
-𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: Exploratory Data Analysis, Data Visualization, Statistical Analysis;
+💼 My recent projects include:
+- A **gym management system** with authentication, role-based access and real-time chat
+- An **e-commerce platform** inspired by OLX/Vinted with search, payments, and seller profiles
+- A system for managing **employee evaluations** in training institutions
 
-𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Supervised and Unsupervised Learning, Regression, Classification.
-## 📫 How to reach me
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dpassos91/)
+🧰 **Tech stack:**
+- **Languages:** Java, JavaScript, SQL
+- **Frameworks:** Spring Boot, React.js, Node.js
+- **Tools:** Git, Docker, REST APIs, WebSockets, JUnit
+- **Other:** Agile methodologies, CI/CD, internationalization (i18n)
 
-
+📫 Reach me here:  
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dpassos91/)  
+📁 Explore my projects below or check my GitHub pinned repositories!
 
 <!---
-dpassos91/dpassos91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+dpassos91/dpassos91 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
