@@ -4,7 +4,7 @@ I'm a **former professional musician and arts educator** now embracing the world
 
 🎯 Currently focused on:
 - **Backend development** with Java and RESTful APIs
-- **Fullstack web apps** with React.js and Spring Boot
+- **Fullstack web apps** with React.js
 - Writing clean, maintainable and tested code
 - Learning DevOps and cloud infrastructure (Terraform, Docker)
 
@@ -15,12 +15,13 @@ I'm a **former professional musician and arts educator** now embracing the world
 
 🧰 **Tech stack:**
 - **Languages:** Java, JavaScript, SQL
-- **Frameworks:** Spring Boot, React.js, Node.js
-- **Tools:** Git, Docker, REST APIs, WebSockets, JUnit
-- **Other:** Agile methodologies, CI/CD, internationalization (i18n)
+- **Frameworks:** React.js, Node.js
+- **Tools:** Git, REST APIs, WebSockets, JUnit
+- **Other:** internationalization (i18n)
 
 📫 Reach me here:  
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dpassos91/)  
+
 📁 Explore my projects below or check my GitHub pinned repositories!
 
 <!---
