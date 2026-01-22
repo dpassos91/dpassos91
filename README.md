@@ -8,8 +8,11 @@ I'm a **former professional musician and arts educator** now embracing the world
 - Writing clean, maintainable and tested code
 - Learning DevOps and cloud infrastructure (Terraform, Docker)
 
+🚧 Currently working on:
+- A **public-facing website for a music school**, focused on clear content structure, accessibility, and responsive design
+
 💼 My recent projects include:
-- A **gym management system** with authentication, role-based access and real-time chat
+- A **gym management system** with authentication and role-based access
 - An **e-commerce platform** inspired by OLX/Vinted with search, payments, and seller profiles
 - A system for managing **employee evaluations** in training institutions
 
