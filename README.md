@@ -6,7 +6,6 @@ I'm a **former professional musician and arts educator** now embracing the world
 - **Backend development** with Java and RESTful APIs
 - **Fullstack web apps** with React.js
 - Writing clean, maintainable and tested code
-- Learning DevOps and cloud infrastructure (Terraform, Docker)
 
 🚧 Currently working on:
 - A **public-facing website for a music school**, focused on clear content structure, accessibility, and responsive design
