@@ -1,25 +1,26 @@
 # 👋 Hi, I'm Diogo Passos!
 
-I'm a **Junior Software Developer** with a background in music education, leadership and project management. After more than a decade directing a music school and performing internationally, I transitioned into software development through an intensive **Java Fullstack Development** programme.
+I'm a **Java Full-Stack Developer** passionate about building clean, maintainable and user-focused software.
 
-I enjoy building software that solves real-world problems, with a particular interest in **full-stack development**, combining robust backend solutions with intuitive user interfaces.
+After more than a decade leading a music school and performing internationally, I transitioned into software development through an intensive **Java Fullstack Development** programme. Today I enjoy building robust backend systems, intuitive frontends and applications that solve real-world problems.
 
 ---
 
-## 💻 Technical Interests
+## 💻 What I Enjoy Building
 
-- Full-stack development with **Java** and **React**
-- Backend development with **Jakarta EE** and **RESTful APIs**
-- Writing clean, maintainable and well-tested code
-- Building scalable and user-focused applications
-- Continuous learning and AI-assisted software development
+- Backend applications with **Java** and **Jakarta EE**
+- Full-stack web applications with **React**
+- RESTful APIs and database-driven systems
+- Real-time applications with **WebSockets**
+- Clean architecture, maintainable code and automated testing
+- AI-assisted software development
 
 ---
 
 ## 🚧 Currently Working On
 
-- Developing a public-facing website for a music school, focused on responsive design, accessibility and content organisation.
-- Continuously expanding my knowledge of modern software development practices and technologies.
+- Developing a public-facing website for a music school with a strong focus on accessibility, responsive design and user experience.
+- Expanding my knowledge of software architecture, testing and modern development practices.
 
 ---
 
@@ -27,9 +28,11 @@ I enjoy building software that solves real-world problems, with a particular int
 
 | Project | Technologies | Highlights |
 |---------|--------------|------------|
-| 🛒 **Marketplace Platform** | Java, Jakarta EE, React, PostgreSQL | Authentication, REST APIs, WebSockets, multilingual support (i18n), real-time notifications |
-| 👥 **Employee Evaluation System** | Java, React | Role-based access, evaluation workflows, reporting, CSV/Excel export |
-| 🏋️ **Gym Management System** | Java | Object-Oriented Programming, authentication, financial management, JUnit, Log4j |
+| 🛒 **[Marketplace Platform](https://github.com/dpassos91/marketplace)** | Java, Jakarta EE, React, PostgreSQL | Authentication, REST APIs, WebSockets, multilingual support (i18n), real-time notifications |
+| 👥 **[Employee Evaluation System](https://github.com/dpassos91/employee-evaluation-system)** | Java, React | Role-based access, evaluation workflows, reporting, CSV/Excel export |
+| 🏋️ **[Gym Management System](https://github.com/dpassos91/gym-management-system)** | Java | Object-oriented design, authentication, financial management, JUnit testing and Log4j |
+
+> *(Replace the repository names above with the exact names if they differ.)*
 
 ---
 
@@ -63,14 +66,18 @@ I enjoy building software that solves real-world problems, with a particular int
 
 ---
 
-## 🌍 Beyond Technology
+## 🌍 Background
 
-Before transitioning into software development, I spent over ten years leading a music school and performing internationally across Europe, North America, Asia and Africa. That experience strengthened my communication, leadership, adaptability and problem-solving skills—qualities I now bring to software engineering and collaborative product development.
+Before transitioning into software engineering, I spent over ten years directing a music school and performing internationally across Europe, North America, Asia and Africa.
+
+That experience strengthened my leadership, communication, organisation and problem-solving skills—qualities I now bring to collaborative software development.
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/dpassos91
+💼 LinkedIn: https://linkedin.com/in/dpassos91
 
-Feel free to explore my pinned repositories below. Feedback and collaboration are always welcome!
+I'm currently looking for opportunities as a **Java Backend Developer** or **Java Full-Stack Developer**.
+
+Feel free to explore my repositories, connect on LinkedIn or reach out for collaboration!
