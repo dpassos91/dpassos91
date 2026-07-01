@@ -32,8 +32,6 @@ After more than a decade leading a music school and performing internationally, 
 | 👥 **[Employee Evaluation System](https://github.com/dpassos91/employee-evaluation-system)** | Java, React | Role-based access, evaluation workflows, reporting, CSV/Excel export |
 | 🏋️ **[Gym Management System](https://github.com/dpassos91/gym-management-system)** | Java | Object-oriented design, authentication, financial management, JUnit testing and Log4j |
 
-> *(Replace the repository names above with the exact names if they differ.)*
-
 ---
 
 ## 🧰 Tech Stack
@@ -78,6 +76,6 @@ That experience strengthened my leadership, communication, organisation and prob
 
 💼 LinkedIn: https://linkedin.com/in/dpassos91
 
-I'm currently looking for opportunities as a **Java Backend Developer** or **Java Full-Stack Developer**.
+I'm currently looking for opportunities as a **Frontend Developer** or **Full-Stack Developer**.
 
 Feel free to explore my repositories, connect on LinkedIn or reach out for collaboration!
