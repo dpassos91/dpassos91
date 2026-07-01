@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Diogo Passos!
 
-I'm a **Java Full-Stack Developer** passionate about building clean, maintainable and user-focused software.
+I'm a **Java Full-Stack Developer** passionate about building clean, maintainable and user-focused software. I enjoy turning ideas into reliable software through clean code, thoughtful design and continuous learning.
 
 After more than a decade leading a music school and performing internationally, I transitioned into software development through an intensive **Java Fullstack Development** programme. Today I enjoy building robust backend systems, intuitive frontends and applications that solve real-world problems.
 
