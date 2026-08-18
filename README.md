@@ -1,81 +1,116 @@
-# 👋 Hi, I'm Diogo Passos!
+# 👋 Hi, I'm Diogo Passos
 
-I'm a **Java Full-Stack Developer** passionate about building clean, maintainable and user-focused software. I enjoy turning ideas into reliable software through clean code, thoughtful design and continuous learning.
+I'm a **project- and product-oriented professional with a technical background in full-stack development**, combining more than 10 years of experience in leadership, operations and stakeholder coordination with hands-on digital delivery.
 
-After more than a decade leading a music school and performing internationally, I transitioned into software development through an intensive **Java Fullstack Development** programme. Today I enjoy building robust backend systems, intuitive frontends and applications that solve real-world problems.
-
----
-
-## 💻 What I Enjoy Building
-
-- Backend applications with **Java** and **Jakarta EE**
-- Full-stack web applications with **React**
-- RESTful APIs and database-driven systems
-- Real-time applications with **WebSockets**
-- Clean architecture, maintainable code and automated testing
-- AI-assisted software development
+My work increasingly sits at the intersection of **projects, product, operations and technology**: understanding needs, defining requirements and priorities, coordinating delivery, and using technology — including AI-assisted development — to build practical solutions.
 
 ---
 
-## 🚧 Currently Working On
+## 🚀 What I'm Working On
 
-- Developing a public-facing website for a music school with a strong focus on accessibility, responsive design and user experience.
-- Expanding my knowledge of software architecture, testing and modern development practices.
+### 🎵 EMAO Digital Transformation
+
+I'm currently leading the digital transformation of a music school, using its new public-facing website as an end-to-end delivery project.
+
+The work includes:
+
+* Understanding user and operational needs
+* Defining scope, requirements, priorities and acceptance criteria
+* Translating functional requirements into implementation changes
+* AI-assisted development and iterative delivery
+* Git-based version control
+* Build validation, linting, testing and troubleshooting
+* Responsive design and user experience
+
+### 📊 Player Bets Analyzer
+
+A Python-based personal project for collecting, structuring and analysing football player statistics.
+
+Focus areas include:
+
+* API data collection and caching
+* Data parsing and transformation
+* pandas-based analysis
+* Excel reporting
+* Incremental refactoring and separation of responsibilities
 
 ---
 
-## ⭐ Featured Projects
+## 🧩 How I Approach Digital Projects
 
-| Project | Technologies | Highlights |
-|---------|--------------|------------|
-| 🛒 **[Marketplace Platform](https://github.com/dpassos91/marketplace)** | Java, Jakarta EE, React, PostgreSQL | Authentication, REST APIs, WebSockets, multilingual support (i18n), real-time notifications |
-| 👥 **[Employee Evaluation System](https://github.com/dpassos91/employee-evaluation-system)** | Java, React | Role-based access, evaluation workflows, reporting, CSV/Excel export |
-| 🏋️ **[Gym Management System](https://github.com/dpassos91/gym-management-system)** | Java | Object-oriented design, authentication, financial management, JUnit testing and Log4j |
+I enjoy working on problems where technology is one part of a broader delivery process.
+
+My approach typically involves:
+
+* Turning user or business needs into clear requirements
+* Breaking larger problems into manageable deliverables
+* Prioritising scope and balancing constraints
+* Coordinating stakeholders and resources
+* Using AI-assisted workflows to accelerate implementation
+* Testing, validating and iterating before delivery
+* Maintaining clear documentation and version control
 
 ---
 
-## 🧰 Tech Stack
+## ⭐ Selected Software Projects
 
-### Languages
-- Java
-- JavaScript
-- SQL
-- Python
+| Project                                                                                                            | Technologies                        | Highlights                                                                            |
+| ------------------------------------------------------------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------------------------------- |
+| 🛒 **[Marketplace Platform](https://github.com/dpassos91/marketplace)**                                            | Java, Jakarta EE, React, PostgreSQL | Authentication, REST APIs, WebSockets, multilingual support, real-time notifications  |
+| 👥 **[Employee Evaluation Management System](https://github.com/dpassos91/employee-evaluation-management-system)** | Java, React                         | Role-based access, evaluation workflows, reporting, CSV/Excel export                  |
+| 🏋️ **[Gym Management System](https://github.com/dpassos91/gym-management-system)**                                | Java                                | Object-oriented design, authentication, financial management, JUnit testing and Log4j |
 
-### Backend
-- Jakarta EE
-- REST APIs
-- JPA / Hibernate
-- WebSockets
+These projects were developed during and after my full-stack training and provide the technical foundation I now bring to broader product, project and digital transformation work.
 
-### Frontend
-- React
+---
 
-### Database
-- PostgreSQL
+## 🧰 Technical Toolkit
 
-### Tools
-- Git & GitHub
-- Maven
-- IntelliJ IDEA
-- Postman
-- JUnit
-- Log4j
+**Languages**
+Java • JavaScript • SQL • Python
+
+**Frontend**
+React
+
+**Backend & APIs**
+Jakarta EE • REST APIs • JPA / Hibernate • WebSockets
+
+**Databases**
+PostgreSQL
+
+**Tools & Quality**
+Git • GitHub • Maven • IntelliJ IDEA • Postman • JUnit • Log4j
+
+**Ways of Working**
+Requirements Definition • Acceptance Criteria • AI-Assisted Development • Git-Based Workflows
+Testing & Troubleshooting • Build & Lint Validation
 
 ---
 
 ## 🌍 Background
 
-Before transitioning into software engineering, I spent over ten years directing a music school and performing internationally across Europe, North America, Asia and Africa.
+Before expanding into technology, I built my career across education, cultural projects and international environments.
 
-That experience strengthened my leadership, communication, organisation and problem-solving skills—qualities I now bring to collaborative software development.
+I have spent more than 10 years directing a music school, coordinating teams, budgets, operations and stakeholders. I have also led and delivered cultural and international projects involving funding, logistics, partnerships, reporting and changing requirements.
+
+That experience now informs how I approach digital work: with a strong focus on **people, clarity, coordination, adaptability and delivery**.
+
+---
+
+## 📚 Currently Developing
+
+* **Google Project Management Certificate**
+* Project lifecycle and Agile practices
+* Product and requirements thinking
+* AI-assisted development workflows
+* Software architecture and testing
+* Digital transformation and process improvement
 
 ---
 
 ## 📫 Let's Connect
 
-💼 LinkedIn: https://linkedin.com/in/dpassos91
+💼 [LinkedIn](https://linkedin.com/in/dpassos91)
 
-I'm currently looking for opportunities as a **Frontend Developer** or **Full-Stack Developer**.
+I'm particularly interested in opportunities at the intersection of **product, projects, operations and technology**.
 
-Feel free to explore my repositories, connect on LinkedIn or reach out for collaboration!
