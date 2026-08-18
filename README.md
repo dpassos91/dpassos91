@@ -36,22 +36,6 @@ Focus areas include:
 
 ---
 
-## 🧩 How I Approach Digital Projects
-
-I enjoy working on problems where technology is one part of a broader delivery process.
-
-My approach typically involves:
-
-* Turning user or business needs into clear requirements
-* Breaking larger problems into manageable deliverables
-* Prioritising scope and balancing constraints
-* Coordinating stakeholders and resources
-* Using AI-assisted workflows to accelerate implementation
-* Testing, validating and iterating before delivery
-* Maintaining clear documentation and version control
-
----
-
 ## ⭐ Selected Software Projects
 
 | Project                                                                                                            | Technologies                        | Highlights                                                                            |
@@ -82,7 +66,7 @@ PostgreSQL
 Git • GitHub • Maven • IntelliJ IDEA • Postman • JUnit • Log4j
 
 **Ways of Working**
-Requirements Definition • Acceptance Criteria • AI-Assisted Development • Git-Based Workflows
+Requirements Definition • Acceptance Criteria • AI-Assisted Development • Git-Based Workflows<br>
 Testing & Troubleshooting • Build & Lint Validation
 
 ---
