@@ -10,20 +10,15 @@ My work sits at the intersection of **projects, product, operations and technolo
 
 ### 🎵 [EMAO Digital Transformation](https://github.com/dpassos91/emao-digital-transformation)
 
-I led the digital transformation of a music school from discovery to the launch of a secure, production-ready digital service.
-
-The project began with a real operational need: make the school's offer easier to understand, create a clear journey for prospective students and replace informal enquiries with a structured trial-lesson workflow.
+I led the digital transformation of a music school from a real operational need to the launch of a secure, production-ready digital service.
 
 My work included:
 
-* Understanding user and operational needs
-* Defining scope, requirements, priorities and acceptance criteria
-* Redesigning the information architecture and service journey
+* Translating user and operational needs into scope, requirements, priorities and acceptance criteria
+* Redesigning the information architecture and prospective-student journey
 * Coordinating content, pricing, privacy and stakeholder decisions
-* AI-assisted implementation and iterative delivery
-* Git-based workflows, testing, troubleshooting and release validation
+* Guiding AI-assisted implementation through Git-based workflows, testing and release validation
 * Configuring Cloudflare infrastructure, D1 persistence, email automation and security controls
-* Managing preview feedback and the production launch
 
 **V1 launched on 28 August 2026:** [emao.pt](https://emao.pt)
 
@@ -31,15 +26,14 @@ The next release is focused on measurement, technical SEO and lead-management op
 
 ---
 
-## ⭐ Selected Projects
+## ⭐ Technical Foundation
 
-| Project | Focus | Highlights |
-|---|---|---|
-| 🎵 **[EMAO Digital Transformation](https://github.com/dpassos91/emao-digital-transformation)** | Project, product and digital delivery | Discovery, requirements, scope, UX, React/Next.js, Cloudflare, D1, security, testing and production launch |
-| 🛒 **[Marketplace Platform](https://github.com/dpassos91/marketplace)** | Full-stack development | Authentication, REST APIs, PostgreSQL, WebSockets, multilingual support and real-time notifications |
-| 👥 **[Employee Evaluation Management System](https://github.com/dpassos91/employee-evaluation-management-system)** | Full-stack development | Role-based access, organisational workflows, reporting and CSV/Excel export |
+| Project | Highlights |
+|---|---|
+| 👥 **[Employee Evaluation Management System](https://github.com/dpassos91/employee-evaluation-management-system)** | Role-based access, organisational workflows, reporting, CSV/Excel export and real-time notifications |
+| 🛒 **[Marketplace Platform](https://github.com/dpassos91/marketplace)** | Authentication, REST APIs, PostgreSQL, WebSockets, multilingual support and real-time notifications |
 
-The software projects provide the technical foundation I now bring to broader project, product and digital transformation work. EMAO demonstrates how I apply that foundation to a real organisation and take a solution from operational need to production delivery.
+These full-stack projects provide the technical foundation I now bring to broader project, product and digital transformation work.
 
 ---
 
