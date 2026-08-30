@@ -2,72 +2,66 @@
 
 I'm a **project- and product-oriented professional with a technical background in full-stack development**, combining more than 10 years of experience in leadership, operations and stakeholder coordination with hands-on digital delivery.
 
-My work increasingly sits at the intersection of **projects, product, operations and technology**: understanding needs, defining requirements and priorities, coordinating delivery, and using technology — including AI-assisted development — to build practical solutions.
+My work sits at the intersection of **projects, product, operations and technology**: understanding needs, defining requirements and priorities, coordinating delivery, and using technology — including AI-assisted development — to build practical solutions.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Featured Project
 
-### 🎵 EMAO Digital Transformation
+### 🎵 [EMAO Digital Transformation](https://github.com/dpassos91/emao-digital-transformation)
 
-I'm currently leading the digital transformation of a music school, using its new public-facing website as an end-to-end delivery project.
+I led the digital transformation of a music school from discovery to the launch of a secure, production-ready digital service.
 
-The work includes:
+The project began with a real operational need: make the school's offer easier to understand, create a clear journey for prospective students and replace informal enquiries with a structured trial-lesson workflow.
+
+My work included:
 
 * Understanding user and operational needs
 * Defining scope, requirements, priorities and acceptance criteria
-* Translating functional requirements into implementation changes
-* AI-assisted development and iterative delivery
-* Git-based version control
-* Build validation, linting, testing and troubleshooting
-* Responsive design and user experience
+* Redesigning the information architecture and service journey
+* Coordinating content, pricing, privacy and stakeholder decisions
+* AI-assisted implementation and iterative delivery
+* Git-based workflows, testing, troubleshooting and release validation
+* Configuring Cloudflare infrastructure, D1 persistence, email automation and security controls
+* Managing preview feedback and the production launch
 
-### 📊 Player Bets Analyzer
+**V1 launched on 28 August 2026:** [emao.pt](https://emao.pt)
 
-A Python-based personal project for collecting, structuring and analysing football player statistics.
-
-Focus areas include:
-
-* API data collection and caching
-* Data parsing and transformation
-* pandas-based analysis
-* Excel reporting
-* Incremental refactoring and separation of responsibilities
+The next release is focused on measurement, technical SEO and lead-management operations.
 
 ---
 
-## ⭐ Selected Software Projects
+## ⭐ Selected Projects
 
-| Project                                                                                                            | Technologies                        | Highlights                                                                            |
-| ------------------------------------------------------------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------------------------------- |
-| 🛒 **[Marketplace Platform](https://github.com/dpassos91/marketplace)**                                            | Java, Jakarta EE, React, PostgreSQL | Authentication, REST APIs, WebSockets, multilingual support, real-time notifications  |
-| 👥 **[Employee Evaluation Management System](https://github.com/dpassos91/employee-evaluation-management-system)** | Java, React                         | Role-based access, evaluation workflows, reporting, CSV/Excel export                  |
-| 🏋️ **[Gym Management System](https://github.com/dpassos91/gym-management-system)**                                | Java                                | Object-oriented design, authentication, financial management, JUnit testing and Log4j |
+| Project | Focus | Highlights |
+|---|---|---|
+| 🎵 **[EMAO Digital Transformation](https://github.com/dpassos91/emao-digital-transformation)** | Project, product and digital delivery | Discovery, requirements, scope, UX, React/Next.js, Cloudflare, D1, security, testing and production launch |
+| 🛒 **[Marketplace Platform](https://github.com/dpassos91/marketplace)** | Full-stack development | Authentication, REST APIs, PostgreSQL, WebSockets, multilingual support and real-time notifications |
+| 👥 **[Employee Evaluation Management System](https://github.com/dpassos91/employee-evaluation-management-system)** | Full-stack development | Role-based access, organisational workflows, reporting and CSV/Excel export |
 
-These projects were developed during and after my full-stack training and provide the technical foundation I now bring to broader product, project and digital transformation work.
+The software projects provide the technical foundation I now bring to broader project, product and digital transformation work. EMAO demonstrates how I apply that foundation to a real organisation and take a solution from operational need to production delivery.
 
 ---
 
 ## 🧰 Technical Toolkit
 
-**Languages**
-Java • JavaScript • SQL • Python
+**Project & Product Delivery**  
+Requirements Definition • Scope & Prioritisation • Acceptance Criteria • Stakeholder Coordination • Testing & Release Validation
 
-**Frontend**
-React
+**Languages**  
+Java • JavaScript • TypeScript • SQL • Python
 
-**Backend & APIs**
-Jakarta EE • REST APIs • JPA / Hibernate • WebSockets
+**Frontend**  
+React • Next.js
 
-**Databases**
-PostgreSQL
+**Backend & APIs**  
+Cloudflare Workers • Jakarta EE • REST APIs • JPA / Hibernate • WebSockets
 
-**Tools & Quality**
-Git • GitHub • Maven • IntelliJ IDEA • Postman • JUnit • Log4j
+**Databases**  
+Cloudflare D1 / SQLite • PostgreSQL
 
-**Ways of Working**
-Requirements Definition • Acceptance Criteria • AI-Assisted Development • Git-Based Workflows<br>
-Testing & Troubleshooting • Build & Lint Validation
+**Tools & Quality**  
+Git • GitHub • AI-Assisted Development • ESLint • Build Validation • JUnit • Postman
 
 ---
 
@@ -87,7 +81,6 @@ That experience now informs how I approach digital work: with a strong focus on 
 * Project lifecycle and Agile practices
 * Product and requirements thinking
 * AI-assisted development workflows
-* Software architecture and testing
 * Digital transformation and process improvement
 
 ---
@@ -97,4 +90,3 @@ That experience now informs how I approach digital work: with a strong focus on 
 💼 [LinkedIn](https://linkedin.com/in/dpassos91)
 
 I'm particularly interested in opportunities at the intersection of **product, projects, operations and technology**.
-
