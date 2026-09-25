@@ -16,13 +16,16 @@ My work included:
 
 * Translating user and operational needs into scope, requirements, priorities and acceptance criteria
 * Redesigning the information architecture and prospective-student journey
+* Designing the lead lifecycle and translating an informal follow-up process into a structured operational workflow
 * Coordinating content, pricing, privacy and stakeholder decisions
 * Guiding AI-assisted implementation through Git-based workflows, testing and release validation
 * Configuring Cloudflare infrastructure, D1 persistence, email automation and security controls
 
-**V1 launched on 28 August 2026:** [emao.pt](https://emao.pt)
+**V1 launched on 28 August 2026. V1.1 was completed in September 2026**, extending the service with campaign attribution, structured lead management, trial scheduling, follow-up workflows and conversion tracking.
 
-The next release is focused on measurement, technical SEO and lead-management operations.
+The current phase focuses on operating the system, measuring acquisition and conversion patterns, and using real data to prioritise the next iteration.
+
+🌐 [emao.pt](https://emao.pt)
 
 ---
 
@@ -72,7 +75,7 @@ That experience now informs how I approach digital work: with a strong focus on 
 ## 📚 Currently Developing
 
 * **Google Project Management Certificate**
-* Project lifecycle and Agile practices
+* Project management practices applied to a live digital transformation programme
 * Product and requirements thinking
 * AI-assisted development workflows
 * Digital transformation and process improvement
